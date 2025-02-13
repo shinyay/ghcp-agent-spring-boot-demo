@@ -1,4 +1,6 @@
-# Title
+# GitHub Copilot Agent mode - Spring Boot
+
+This repository is a sample project for GitHub Copilot Agent mode. It is a Spring Boot application that uses GitHub Copilot to generate code.
 
 ## Description
 
