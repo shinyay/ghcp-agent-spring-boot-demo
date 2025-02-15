@@ -6,6 +6,12 @@ This repository is a sample project for GitHub Copilot Agent mode. It is a Sprin
 
 ## Description
 
+### 1. What is GitHub Copilot Agent mode?
+
+GitHub Copilot Agent mode is a new feature of GitHub Copilot that allows you to use GitHub Copilot as an agent to generate code. GitHub Copilot's Agent Mode was introduced in February 2025 as an innovative feature that ushers in a new era of AI-assisted development. This feature goes beyond traditional code completion tools to enable autonomous task execution throughout the development process.
+
+
+
 ## Demo
 
 ## Features
