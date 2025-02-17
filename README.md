@@ -23,7 +23,18 @@ The true innovation of Agent Mode is its task execution capability, which goes b
 
 Of particular note is the self-healing function, which has the ability to analyze the error trace in the event of a test failure and simultaneously fix multiple related files. For example, if the front end needs to be adjusted due to a change in API endpoints, an integrated response is possible, fixing both back-end and front-end code simultaneously.
 
+## Comparison with Traditional Copilot Development
 
+The fundamental difference between traditional Copilot development (Development as Copilot) and Agent Mode development (Development as Agent) is the level of AI involvement and the changing role of the developer. The following comparison table clearly illustrates the differences between the two:
+
+|Comparison Item|Conventional Copilot Development|Agent Mode Development|
+|---|---|---|
+|Task Scope|Single file/current line|Entire project|
+|Execution unit|Code snippet|Complete functional implementation|
+|Error handling|Developer dependencies|Automatic diagnosis and correction|
+|Developer Role|Key Implementer|Supervisor/Designer|
+|Feedback loop|Manual testing|Automated CI/CD coordination|
+|Context dependency|Current edit position|Project-wide context
 
 ## Demo
 
