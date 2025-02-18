@@ -23,7 +23,7 @@ The true innovation of Agent Mode is its task execution capability, which goes b
 
 Of particular note is the self-healing function, which has the ability to analyze the error trace in the event of a test failure and simultaneously fix multiple related files. For example, if the front end needs to be adjusted due to a change in API endpoints, an integrated response is possible, fixing both back-end and front-end code simultaneously.
 
-## Comparison with Traditional Copilot Development
+## 3. Comparison with Traditional Copilot Development
 
 The fundamental difference between traditional Copilot development (Development as Copilot) and Agent Mode development (Development as Agent) is the level of AI involvement and the changing role of the developer. The following comparison table clearly illustrates the differences between the two:
 
@@ -35,6 +35,10 @@ The fundamental difference between traditional Copilot development (Development 
 |Developer Role|Key Implementer|Supervisor/Designer|
 |Feedback loop|Manual testing|Automated CI/CD coordination|
 |Context dependency|Current edit position|Project-wide context
+
+## 4. Advantages of Agent Mode
+
+The benefits of the GitHub Copilot Agent Mode go beyond mere productivity gains to promote an essential transformation of software development. From a technical perspective, it has achieved a multidimensional evolution in quality assurance through multi-file processing and self-healing capabilities; from a process perspective, it has optimized the entire development lifecycle; and from an organizational perspective, it has enhanced technical debt management and compliance handling. As AI and humans collaborate more deeply in the future, the role of developers is expected to shift from “code writers” to “those who design systems and direct AI. Utilizing this technology under appropriate governance will further democratize software development and accelerate technological innovation.
 
 ## Demo
 
