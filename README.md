@@ -57,6 +57,19 @@ I am creating a web application to manage users. We would like to fulfill the fo
 Create your application based on these requirements.
 ```
 
+### Japanese version
+
+```text
+Webアプリケーションを作成しています。ユーザを管理するためのものです。以下の要件を満たしたいです
+- 新規ユーザ登録、全ユーザ参照、個別ユーザ参照、登録情報変更、全登録情報削除、個別登録情報削除
+- REST APIによる操作
+- ブラウザからの操作
+- Thymeleafを使用してUIを作成
+- CSSを使用してUIをデザイン
+- データストレージにH2データベースを使用
+これらの要件に基づいてアプリケーションを作成してください。
+```
+
 
 ## Features
 
