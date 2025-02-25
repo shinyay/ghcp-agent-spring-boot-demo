@@ -42,6 +42,15 @@ The benefits of the GitHub Copilot Agent Mode go beyond mere productivity gains 
 
 ## Demo
 
+## 0. Prerequisites
+
+### Installed software
+
+- Java 23
+- Git
+- Visual Studio Code Insider
+- GitHub Copilot
+
 ## 1. First prompt for GitHub Copilot Agent mode
 
 ```text
