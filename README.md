@@ -51,6 +51,10 @@ The benefits of the GitHub Copilot Agent Mode go beyond mere productivity gains 
 - Visual Studio Code Insider
 - GitHub Copilot
 
+### Application requirements
+
+- Spring Boot 3.4.3
+
 ## 1. First prompt for GitHub Copilot Agent mode
 
 ```text
