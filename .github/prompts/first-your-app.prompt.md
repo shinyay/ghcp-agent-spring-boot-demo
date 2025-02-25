@@ -6,5 +6,17 @@ I am creating a web application to manage users. We would like to fulfill the fo
 - UI is created using Thymeleaf
 - UI should be designed using CSS
 - Use H2 database for data storage
+- Java package structure should be as follows
+  - com.microsoft.shinyay.demo
+    - controller
+    - service
+    - repository
+    - model
+    - exception
+    - config
+    - dto
+    - util
+    - security
+    - properties
 
 Create your application based on these requirements.
