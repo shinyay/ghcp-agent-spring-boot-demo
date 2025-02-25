@@ -7,14 +7,13 @@ Webアプリケーションを作成しています。ユーザを管理する�
 - データストレージにH2データベースを使用
 - Javaパッケージ構造は以下のようにする
   - com.microsoft.shinyay.demo
-    - controller
-    - service
-    - repository
-    - model
-    - exception
-    - config
-    - dto
-    - util
-    - security
-    - properties
+    - controller # ここにREST APIとThymeleafのコントローラを配置
+    - service # ここにビジネスロジックを配置
+    - repository # ここにデータアクセスロジックを配置
+    - model # ここにデータモデルを配置
+    - exception # ここにカスタム例外を配置
+    - config # ここにアプリケーションの設定を配置
+    - dto # ここにデータ転送オブジェクトを配置
+    - util # ここにユーティリティクラスを配置
+    - security # ここにセキュリティ関連の設定を配置
 これらの要件に基づいてアプリケーションを作成してください。
