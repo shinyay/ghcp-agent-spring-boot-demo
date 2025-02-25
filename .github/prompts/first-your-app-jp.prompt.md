@@ -5,4 +5,16 @@ Webアプリケーションを作成しています。ユーザを管理する�
 - Thymeleafを使用してUIを作成
 - CSSを使用してUIをデザイン
 - データストレージにH2データベースを使用
+- Javaパッケージ構造は以下のようにする
+  - com.microsoft.shinyay.demo
+    - controller
+    - service
+    - repository
+    - model
+    - exception
+    - config
+    - dto
+    - util
+    - security
+    - properties
 これらの要件に基づいてアプリケーションを作成してください。
